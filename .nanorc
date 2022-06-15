@@ -1,0 +1,20 @@
+include /usr/share/nano-syntax-highlighting/*.nanorc
+# line numbers
+set linenumbers
+# tabs and spaced instead of always at the edge of the screen 
+set atblanks
+#  use auto-indentation
+set autoindent
+# use mouse
+set mouse
+# word wrapping
+set softwrap 
+# tapsize = 4
+set tabsize 4
+# tap to spaces
+set tabstospaces
+
+
+# title Bar
+set titlecolor black,white
+
